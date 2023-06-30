@@ -1,0 +1,13 @@
+/* css styles */
+.navbar-brand img {
+  width: 30px; /* Defina o tamanho desejado para a largura da imagem */
+  height: 70px; /* Mantém a proporção da imagem */
+}
+
+body {
+  font-family: "Arial", sans-serif; /* Exemplo de fonte personalizada */
+}
+
+img {
+  width: 100%; /* Define a largura da imagem como 100% */
+}
